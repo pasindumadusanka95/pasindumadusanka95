@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/pasindumadusanka95?logo=GitHub&style=for-the-badge)
 <br/>
 *************
-- 💻 I’m currently working as a Software Engineer at [Cambio Software Engineering, Sri Lanka](https://www.cambio.lk/)
+- 💻 I’m currently working as a Senior Software Engineer at [Sysco LABS Sri Lanka, Sri Lanka](https://syscolabs.lk/)
 - 🌱 I'm currently reading a Master of Computer Science degree at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk)
 - 🌱 I studied at [UCSC, Sri Lanka](https://ucsc.cmb.ac.lk) for a degree of B.Sc in Computer Science
 - 🙈 Personal Website: [pasindu senarath](http://pasindusenarath.herokuapp.com/)
